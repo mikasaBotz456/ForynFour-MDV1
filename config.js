@@ -103,7 +103,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 
 // WATERMARK STICKER 
-global.stiker_wait = '⏳ Stiker sedang Di buat Tod🗿'
+global.stiker_wait = '⏳ STIKER SEDANG DI PROSES.....'
 global.packname = '𝙈𝙞𝙠𝙖𝙨𝙖 𝘼𝙘𝙠𝙚𝙧𝙢𝙖𝙣'
 global.author = 'By @𝙖𝙧𝙧𝙝𝙢𝙙𝙛𝙖𝙪𝙯𝙖𝙣_'
 
