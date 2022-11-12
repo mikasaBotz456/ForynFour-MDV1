@@ -28,17 +28,17 @@ VERSION:3.0
 N:;;;
 FN: ᯤ ᴋʀɪᴢʏɴ ᴏꜰᴄ
 item.ORG: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
-item1.TEL;waid=6285770190255:6285770190255@s.whatsapp.net
+item1.TEL;waid=994407652481:994407652481@s.whatsapp.net
 item1.X-ABLabel: Nomor Owner Bot
 item2.EMAIL;type=INTERNET: ranggastory94@gmail.com
 item2.X-ABLabel:📫 Gmail
-item3.ADR:;;📍 Bekasi - Indonesian;;;;
+item3.ADR:;;📍 Pekanbaru - Indonesian;;;;
 item3.X-ABADR:ac
 item3.X-ABLabel:📮 Location Owner
-item4.URL:https://youtube.com/channel/UCkiB1g5qA7xtd7AlXd46vcw
-item4.X-ABLabel:Youtube
-item5.URL:https//github.com/XiaomiBOT
-item5.X-ABLabel:Github
+item4.URL:https://instagram.com/arrhmdfauzan_
+item4.X-ABLabel: Instagram 
+item5.URL:https://instagram.com/arrhmdfauzan_
+item5.X-ABLabel: Instagram 
 item6.URL:https//instagram.com/rangga_botz
 item6.X-ABLabel:Instagram
 item7.URL:https://hanz.my.id
