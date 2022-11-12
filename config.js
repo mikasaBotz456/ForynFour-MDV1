@@ -54,10 +54,10 @@ global.fsizedoc = '99999999999999' // default 10TB
 global.fpagedoc = '999'
 
 // WATERMARK  
-global.wm = 'ᬊᬁ 𝐗𝐢𝐚𝐨𝐦𝐢𝐁𝐎𝐓'
+global.wm = 'ᬊᬁ 𝐌𝐢𝐤𝐚𝐬𝐚𝐁𝐎𝐓'
 global.watermark = wm
-global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝙃𝙖𝙣𝙯𝙊𝙛𝙘'
-global.wm3 = '⫹⫺ 𝙓𝙞𝙖𝙤𝙢𝙞 | BOT WHATSAPP MD'
+global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝙉𝙖𝙯𝙪𝙖𝙁'
+global.wm3 = '⫹⫺ 𝙈𝙞𝙠𝙖𝙨𝙖 | BOT WHATSAPP MD'
 global.tb = 'WHATSAPP BOT MULTI DEVICE'
 
 //  DEFAULT MENU  
