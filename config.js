@@ -96,7 +96,7 @@ global.hka = '』––––––'
 
 
 // INFO BOT
-global.wait = '⏳ Tunggu Sedang Proses Tod🗿...'
+global.wait = '⏳*SEDANG DI PROSES.....*'
 global.eror = '_*🤦 Server Bot tidak ditemukan*_'
 
 global.benar = 'Benar ✅\n'
