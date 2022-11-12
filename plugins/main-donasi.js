@@ -27,7 +27,7 @@ Berapapun donasi kalian akan sangat berarti 👍
 Arigatou!
 
 Contact person Owner:
- ࿑ Owner wa.me/62885770190255 ( pemilik bot )`
+ ࿑ Owner wa.me/994407652481 ( pemilik bot )`
   conn.sendButtonImg(m.chat, fotonya1, ehe, wm, 'Owner', '.owner', m) 
 }
 handler.help = ['donasi']
