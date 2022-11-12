@@ -15,18 +15,18 @@ global.namebot = 'MikasaBot'
 global.nobot = '6283890269424'
 
 //  URL SOSMED
-global.instagram = 'https://instagram.com/rangga_botz'
-global.github = 'https://github.com/XiaomiBOT'
-global.gc = 'https://chat.whatsapp.com/CxhaZtrxdn4AfSUOHuCtcM'
-global.web = 'https://hanz.my.id' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.saweria = 'https://saweria.co/XiaomiBOT'
+global.instagram = 'https://instagram.com/arrhmdfauzan_'
+global.github = 'https://instagram.com/arrhmdfauzan_'
+global.gc = 'https://chat.whatsapp.com/KXAcnoSD5quG2V7orGth4M'
+global.web = 'https://instagram.com/arrhmdfauzan_' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.saweria = 'https://instagram.com/arrhmdfauzan_'
 
 // PAYMANT 
-global.dana = '085779150501'
-global.pulsa = '085770190255'
-global.gopay = '085779150501'
+global.dana = '-'
+global.pulsa = '-'
+global.gopay = '-'
 global.shopay = '-'
-global.ovo = '085779150501'
+global.ovo = '-'
 
 // PROFILE ALL 
 global.ppreg = 'https://telegra.ph/file/445721f7cdab701543840.jpg'
