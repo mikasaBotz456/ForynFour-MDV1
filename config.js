@@ -104,8 +104,8 @@ global.salah = 'Salah ❌\n'
 
 // WATERMARK STICKER 
 global.stiker_wait = '⏳ Stiker sedang Di buat Tod🗿'
-global.packname = 'XiaomiBOT'
-global.author = 'By HanzOfc'
+global.packname = '𝙈𝙞𝙠𝙖𝙨𝙖 𝘼𝙘𝙠𝙚𝙧𝙢𝙖𝙣'
+global.author = 'By @𝙖𝙧𝙧𝙝𝙢𝙙𝙛𝙖𝙪𝙯𝙖𝙣_'
 
 //  APIKEY ANDA 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
