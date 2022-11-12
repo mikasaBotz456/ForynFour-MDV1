@@ -3,16 +3,16 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['6285770190255'] 
+global.owner = ['994407652481'] 
 global.mods = [] 
 global.prems = [] 
-global.kontak = ['6285770190255']
+global.kontak = ['994407652481']
 
 //  INFO BOT 
-global.naown = 'HanzOfc'
-global.noown = '6285770190255'
-global.namebot = 'XiaomiBOT'
-global.nobot = '62857791505013'
+global.naown = 'F'
+global.noown = '994407652481'
+global.namebot = 'MikasaBot'
+global.nobot = '6283890269424'
 
 //  URL SOSMED
 global.instagram = 'https://instagram.com/rangga_botz'
