@@ -29,8 +29,8 @@ N:;;;
 FN: ᯤ F
 item.ORG: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
 item1.TEL;waid=994407652481:994407652481@s.whatsapp.net
-item1.X-ABLabel: Nomor Owner Bot
-item2.EMAIL;type=INTERNET: ranggastory94@gmail.com
+item1.X-ABLabel: Nomor Owner Bot Mikasa
+item2.EMAIL;type=INTERNET: mikasabot44@gmail.com
 item2.X-ABLabel:📫 Gmail
 item3.ADR:;;📍 Pekanbaru - Indonesian;;;;
 item3.X-ABADR:ac
@@ -39,9 +39,9 @@ item4.URL:https://instagram.com/arrhmdfauzan_
 item4.X-ABLabel: Instagram 
 item5.URL:https://instagram.com/arrhmdfauzan_
 item5.X-ABLabel: Instagram 
-item6.URL:https//instagram.com/rangga_botz
+item6.URL:https://instagram.com/arrhmdfauzan_
 item6.X-ABLabel:Instagram
-item7.URL:https://hanz.my.id
+item7.URL:-
 item7.X-ABLabel:Website
 END:VCARD`
 const sentMsg  = await conn.sendMessage(
