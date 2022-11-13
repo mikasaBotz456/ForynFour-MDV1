@@ -5,7 +5,7 @@
 // NUMBER
 global.owner = ['994407652481'] 
 global.mods = [] 
-global.prems = ['] 
+global.prems = [] 
 global.kontak = ['994407652481']
 
 //  INFO BOT 
