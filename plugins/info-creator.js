@@ -41,7 +41,7 @@ item5.URL:https://instagram.com/arrhmdfauzan_
 item5.X-ABLabel: Instagram 
 item6.URL:https://instagram.com/arrhmdfauzan_
 item6.X-ABLabel:Instagram
-item7.URL:-
+item7.URL:https://instagram.com/arrhmdfauzan_
 item7.X-ABLabel:Website
 END:VCARD`
 const sentMsg  = await conn.sendMessage(
