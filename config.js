@@ -33,8 +33,8 @@ global.ppreg = 'https://telegra.ph/file/445721f7cdab701543840.jpg'
 global.fotonya1 = 'https://telegra.ph/file/5fc4b42ae2d4e98998f85.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/29aafbe96c2489300639a.jpg' //ini juga ganti 
 global.ppacc = 'https://telegra.ph/file/a077271ff372545599dbc.jpg'
-global.imgloc = 'https://telegra.ph/file/f209153a54698c43032f7.jpg'
-global.media = 'https://telegra.ph/file/e6355ade20840c96814ed.jpg'
+global.imgloc = 'https://telegra.ph/file/e6355ade20840c96814ed.jpg'
+global.media = 'https://telegra.ph/file/f209153a54698c43032f7.jpg'
 global.ppm = 'https://telegra.ph/file/d363501313478008b9007.jpg'  // bagian atas all command
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
