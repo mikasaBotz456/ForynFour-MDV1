@@ -87,6 +87,7 @@ global.admen = `┏═┅〔 *SUPPORT* 〕┅═✦
 ┃⫹⫺ Jarot
 ┃⫹⫺ Kanna
 ┃⫹⫺ Fokusid
+┃⫹⫺ FauzanArrhmd
 ┃
 ┗━━══┅┅══━━━✦`
         
